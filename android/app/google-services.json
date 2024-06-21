@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157726663436",
+    "project_id": "groovy-scarab-426302-b9",
+    "storage_bucket": "groovy-scarab-426302-b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157726663436:android:58493d515237550c971f29",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ashqm6u9aoitXn7EpMWzubpD3dAPfYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
